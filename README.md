@@ -1,11 +1,9 @@
-# telebot_GPT_3.5_Turbo_DSM_1.0
-
-
+# telebot_GPT_3.5_Turbo
 ## Prerequisites
 
 To follow this tutorial, you will need:
 
-- Python 3.7.10
+- Python <b>3.7.10</b>
 - A Telegram account and a smartphone
 - An OpenAI account and an API key
 
